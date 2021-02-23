@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1315075375888260547
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3881812329104858840, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 5000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3881812329104858840, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 5000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 3.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -165
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4638702584081776346, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9c7d7d9527555754f8ab15950913dce3,
+        type: 3}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "La caverne abrite des chauve-souris qui viennent s\u2019y reposer la
+        journ\xE9e. Si il n\u2019est pas toujours possible de les voir, on peut souvent
+        apercevoir des traces de guano au sol qui indiquent leur pr\xE9sence."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227622, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: Les chauve-souris
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 181.18439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.00009503743
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -151.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 156
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34.70761
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.4675205
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560974287238936, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042357725717037441, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5556225342149350985, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9c7d7d9527555754f8ab15950913dce3,
+        type: 3}
+    - target: {fileID: 5632109329009336203, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615733, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: Les chauve-souris
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "La caverne abrite des chauve-souris qui viennent s\u2019y reposer la
+        journ\xE9e. Si il n\u2019est pas toujours possible de les voir, on peut souvent
+        apercevoir des traces de guano au sol qui indiquent leur pr\xE9sence."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5964502685264279117, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6882201141992414942, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Name
+      value: InfoDisplayer_bat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -80.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -30.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8568075
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.51563644
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 117.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc050be8e0e01474298f2b94388ae80d, type: 3}

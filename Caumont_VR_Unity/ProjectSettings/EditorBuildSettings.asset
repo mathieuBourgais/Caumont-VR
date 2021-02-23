@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GlobalCaveSceneVR.unity
+    guid: c4184996dee11a946a8fe7c595d216e1
+  - enabled: 1
+    path: Assets/Scenes/GlobalCaveScene.unity
+    guid: 1be815ffaf944f040932d7807ed52e56
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 14a5d10e61d090442bdddc1da681e5d5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9b4319a116eaf504685dee34027f6934,
+      type: 2}

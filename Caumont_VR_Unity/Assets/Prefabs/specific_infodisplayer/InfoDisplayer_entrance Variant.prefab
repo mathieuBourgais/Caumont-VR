@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2649344805916311626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "La grotte dans laquelle vous vous trouvez est la carri\xE8re des maquisards
+        qui fait partie de la carri\xE8re de Caumont. On sait que cet endroit sert
+        \xE0 l\u2019extraction de pierre depuis l\u2019antiquit\xE9. Les pierres
+        extraites ici on \xE9t\xE9 utilis\xE9es pour la construction de nombreux
+        b\xE2timents de la r\xE9gion tel que la cath\xE9drale de Rouen."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701735, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 92.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701735, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 295.2158
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701735, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701735, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 256.06357
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701735, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227622, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "Les carri\xE8res de Caumont"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 210.65796
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 161.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 47.48134
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -131.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560974287238936, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Name
+      value: InfoDisplayer_entrance
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -110.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -139.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9712386
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2381085
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 152.45001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc050be8e0e01474298f2b94388ae80d, type: 3}

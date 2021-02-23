@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &252906483787895525
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078749785244464715, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -162.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4638702584081776346, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8a64390a47e17294eb09847304adc9be,
+        type: 3}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "A certains endroits de la carri\xE8re, on peut voir d' \xE9tranges
+        traces au sol. Il s\u2019agit des restes des cultures de champignons que
+        les carriers pouvaient entreprendre. Dans les ann\xE9es 1960, une champignonni\xE8re
+        s'installa m\xEAme dans une autre partie de la grotte mais elle ne dura pas
+        tr\xE8s longtemps. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973226701734, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227622, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: Culture de champignons
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 194.6994
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -133
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 157.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560973317227623, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 59.537857
+      objectReference: {fileID: 0}
+    - target: {fileID: 4858560974287238936, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5042357725717037441, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5556225342149350985, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8a64390a47e17294eb09847304adc9be,
+        type: 3}
+    - target: {fileID: 5632109329009336203, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 139
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615733, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: Culture de champignons
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "A certains endroits de la carri\xE8re, on peut voir d' \xE9tranges
+        traces au sol. Il s\u2019agit des restes des cultures de champignons que
+        les carriers pouvaient entreprendre. Dans les ann\xE9es 1960, une champignonni\xE8re
+        s'installa m\xEAme dans une autre partie de la grotte mais elle ne dura pas
+        tr\xE8s longtemps.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5964502685264279117, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6882201141992414942, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Name
+      value: InfoDisplayer_mushroom
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -288.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 99.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.18343657
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9830316
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -21.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc050be8e0e01474298f2b94388ae80d, type: 3}
