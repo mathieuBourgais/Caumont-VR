@@ -85,7 +85,7 @@ PrefabInstance:
     - target: {fileID: 5632109329009336203, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5632109329383615733, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
@@ -123,7 +123,7 @@ PrefabInstance:
     - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
       propertyPath: m_Name
-      value: InfoDisplayer_lucarne
+      value: InfoDisplayer_lucarne Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}

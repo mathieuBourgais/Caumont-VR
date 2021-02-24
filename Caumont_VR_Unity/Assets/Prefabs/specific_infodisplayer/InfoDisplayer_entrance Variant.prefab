@@ -86,10 +86,39 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5042357725717037441, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615733, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "Les carri\xE8res de Caumont"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_Text
+      value: "La grotte dans laquelle vous vous trouvez est la carri\xE8re des maquisards
+        qui fait partie de la carri\xE8re de Caumont. On sait que cet endroit sert
+        \xE0 l\u2019extraction de pierre depuis l\u2019antiquit\xE9. Les pierres
+        extraites ici on \xE9t\xE9 utilis\xE9es pour la construction de nombreux
+        b\xE2timents de la r\xE9gion tel que la cath\xE9drale de Rouen."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329431943989, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
       propertyPath: m_Name
-      value: InfoDisplayer_entrance
+      value: InfoDisplayer_entrance Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
