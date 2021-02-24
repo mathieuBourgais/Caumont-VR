@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GlobalCaveSceneVR.unity
     guid: c4184996dee11a946a8fe7c595d216e1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/GlobalCaveScene.unity
     guid: 1be815ffaf944f040932d7807ed52e56
   m_configObjects:

@@ -145,7 +145,7 @@ PrefabInstance:
     - target: {fileID: 8122661240903805223, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
       propertyPath: m_Name
-      value: InfoDisplayer_mushroom
+      value: InfoDisplayer_mushroom Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8122661240903805225, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}

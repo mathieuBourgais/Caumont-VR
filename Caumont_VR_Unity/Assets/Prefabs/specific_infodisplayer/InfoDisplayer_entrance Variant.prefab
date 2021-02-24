@@ -91,6 +91,36 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5632109329009336203, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -128.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 143.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 175.70435
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632109329383615732, guid: fc050be8e0e01474298f2b94388ae80d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 51.880516
+      objectReference: {fileID: 0}
     - target: {fileID: 5632109329383615733, guid: fc050be8e0e01474298f2b94388ae80d,
         type: 3}
       propertyPath: m_Text
