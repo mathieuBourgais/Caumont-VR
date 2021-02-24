@@ -42,7 +42,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.6901961, g: 0.5610022, b: 0.2509804, a: 1}
+  m_Color: {r: 0.6901961, g: 0.413018, b: 0.2509804, a: 1}
   m_Intensity: 3
   m_Range: 30
   m_SpotAngle: 30
@@ -134,7 +134,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.6886792, g: 0.5647059, b: 0.25013348, a: 1}
+  m_Color: {r: 0.6901961, g: 0.4117647, b: 0.2509804, a: 1}
   m_Intensity: 2
   m_Range: 60
   m_SpotAngle: 30
@@ -193,7 +193,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: f423c6ee2a98ffa4bb64fe92380f2581, type: 3}
       propertyPath: m_Name
-      value: Torch
+      value: Torch Variant
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: f423c6ee2a98ffa4bb64fe92380f2581, type: 3}
       propertyPath: m_IsActive
