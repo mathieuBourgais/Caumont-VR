@@ -1103,9 +1103,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxPitch: 1.2
-  maxVolume: 0.8
+  maxVolume: 0.7
   minPitch: 0.8
-  minVolume: 0.5
+  minVolume: 0.3
   spawnProbability: 0.1
   maxSpawnDistance: 10
   minSpawnDistance: 1
@@ -5451,7 +5451,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ddc4973571f36404d95c23401b7d2f12, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0810c6bbffb6c0143984f3145f710f69, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
